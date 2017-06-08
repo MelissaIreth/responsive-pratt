@@ -19,6 +19,7 @@ h1{
 }
 .backblue img{
 	box-sizing: border-box;
+	padding-left: 180px;
 }
 
 .design .phone{
@@ -49,6 +50,7 @@ hr{
 
 .laptop{
 	box-sizing: border-box;
+	padding-left: 200px;
 }
 footer{
 	background-color: #2f2f2f;

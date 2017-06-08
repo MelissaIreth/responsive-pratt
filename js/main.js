@@ -19,5 +19,5 @@ var send = document.getElementById("send");
 		document.getElementById("error-name").classList.remove("has-error");
 		document.getElementById("error-mail").classList.remove("has-error");
 		document.getElementById("error-msg").classList.remove("has-error");
-		}	
+	}	
 });
