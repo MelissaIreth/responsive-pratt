@@ -1,4 +1,10 @@
 @media (max-width: 767px){
+	.backblue h1{
+		font-size: 8.5em;
+	}
+	.backblue h3{
+		font-size: 3em;
+	}
 	.backblue img{
 		padding-left: 0;
 	}

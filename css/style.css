@@ -71,3 +71,11 @@ footer .btn{
 .fin a{
 	color: #218077;
 }
+.addtext{
+	padding: 30px;
+}
+.addtext p{
+	font-size: 2em;
+	padding-right: 10px;
+	color: #a4a5a7;
+}
