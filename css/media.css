@@ -1,0 +1,24 @@
+@media (max-width: 767px){
+	.design .phone{
+		width: 90%;
+	}
+	.backblue2 .laptop{
+		width: 100%;
+	}
+	.bigtext{
+		padding-bottom: 20px;
+	}
+	.bigtext h2, .design h2{
+		font-size: 4em;
+	}
+	.bigtext h3, .design h3{
+		font-size: 3em;
+	}
+	.bigtext p, .design p{
+		font-size: 2em;
+	}
+	.design img{
+		width: 40%;
+	}
+
+}

@@ -1,14 +1,40 @@
 body{
 	padding: 0;
 	margin: 0;
+	font-family: 'Raleway', sans-serif
 }
 .navbar{
 	margin-bottom: 0;
 }
 .backblue{
 	background-color: #34495e;
+	color: whitesmoke;
 	padding-top: 100px;
 	border-bottom: 3px solid gray;
+	text-align: center;
+}
+
+h1{
+	font-size: 5em;
+}
+.backblue img{
+	box-sizing: border-box;
+}
+
+.design .phone{
+	padding-left: 80px;
+	box-sizing: border-box;
+}
+
+.whatsnew{
+	padding-bottom: 50px;
+}
+
+.whatsnew p{
+	padding-right: 50px;
+}
+.skyblue{
+	color: #02c09c;
 }
 hr{
 	width: 90%;
@@ -18,6 +44,11 @@ hr{
 	background-color: #34495e;
 	padding-top: 100px;
 	padding-bottom: 100px;
+	color: whitesmoke;
+}
+
+.laptop{
+	box-sizing: border-box;
 }
 footer{
 	background-color: #2f2f2f;
